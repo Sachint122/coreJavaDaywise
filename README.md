@@ -1,0 +1,2 @@
+# coreJavaDaywise
+learning purpose
